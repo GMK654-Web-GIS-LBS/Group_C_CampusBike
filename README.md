@@ -50,3 +50,4 @@ HEROKU (https://www.heroku.com) has been preferred as the service provider.
 - Mobile application development.
 # 7. Gantt Chart of Milestones
 
+![gantt_chart](https://user-images.githubusercontent.com/80366871/168443286-90e90022-512f-4970-8e96-cec96bbf7912.jpg)
